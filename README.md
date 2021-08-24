@@ -23,12 +23,12 @@ DataBase: MongoDB
 
 Session Management: JWT Tokens
 
+Features Include:
+ - User registration using unique username and a password
+ - User login 
+ - Chat with other users
+ 
 About Me:
-
-I am currently in my second year, studying Computer Science and Business Administration, with the University of Waterloo and Wilfrid Laurier University. 
+I am currently in my second year, studying Computer Science at the University of Waterloo and Wilfrid Laurier University. 
 In my free time, I am searching for ways to combine my enthusiasm for technology and creative designing to develop products that can benefit others. 
 I am curiosity-driven and passionate about learning. Specifically, I enjoy learning about potential innovation holds and how it is contributing to changing the world.
-
-Section I am Most Proud Of:
-
-I really enjoyed doing the Backend assessment and I am most proud of Section 1. 
