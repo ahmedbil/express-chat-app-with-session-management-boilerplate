@@ -1,5 +1,4 @@
-# myExpressApp (Backend Assessment)
-Implementation for Task 1 (Section 1 & 2)
+# myExpressAp
 The backend is created using Express.js framework.
 1. Clone the repository first
 2. Create a .env file in the root directory
