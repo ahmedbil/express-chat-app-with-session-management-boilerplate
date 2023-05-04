@@ -1,10 +1,10 @@
-# Express Backend for Managing Users Account Information, Session, and Application Acitvities.
+# Backend for Managing User Sessions and Application Acitvity.
 
 Language: JavaScript
 
 FrameWork: Express.js
 
-DataBase: MongoDB
+Database: MongoDB
 
 Session Management: JWT Tokens
 
