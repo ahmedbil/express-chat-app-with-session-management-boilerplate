@@ -1,4 +1,20 @@
-# myExpressAp
+# Express Backend for Managing Users Account Information, Session, and Application Acitvities.
+
+Language: JavaScript
+
+FrameWork: Express.js
+
+DataBase: MongoDB
+
+Session Management: JWT Tokens
+
+
+Features Include:
+ - User registration using unique username and a password
+ - User login 
+ - Web sockets to chat with other users
+
+
 The backend is created using Express.js framework.
 1. Clone the repository
 2. Create a .env file in the root directory
@@ -13,16 +29,3 @@ REFRESH_TOKEN_SECRET=825dbbb25e31d931819bf913f4aba3a0e5f4431c4b11d8b9aba9d956414
 4. Requires node/nodemon and npm installed
 5. Run npm install in the terminal for intalling all the dependencies
 6. To start the server enter 'nodemon server,js' or 'node server.js'
-
-Language: JavaScript
-
-FrameWork: Express.js
-
-DataBase: MongoDB
-
-Session Management: JWT Tokens
-
-Features Include:
- - User registration using unique username and a password
- - User login 
- - Chat with other users
